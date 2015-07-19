@@ -1,0 +1,26 @@
+*******************************RELEASE NOTE***********************************
+
+Release Serial - 
+
+Release Environment - 
+
+Codebase Branch - 
+
+Initialisation - Needed / Not needed.
+      Extensions to be unchecked - NA
+      
+Admincockpit configuration - Needed / Not needed
+
+System Update - Needed / Not needed.
+      Properties to be checked -  Update running system.
+                                  Clear HMC configuration
+                                  Create essential data
+                                  Localize changes.
+                                  
+      Extensions to be unchecked - NA
+      
+Manual Impex running - 
+
+Synchronization - Needed / Not needed.
+
+Indexing - Needed / Not needed.

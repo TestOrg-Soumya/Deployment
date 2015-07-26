@@ -17,7 +17,7 @@ System Update - Needed / Not needed.
                                   Create essential data
                                   Localize changes.
                                   
-      Extensions to be unchecked - NA
+      Extensions to be checked - NA
       
 Manual Impex running - 
 
